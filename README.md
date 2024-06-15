@@ -49,7 +49,3 @@ This project consists of two apps: `flights` and `users`.
    - **First Name:** Ron
    - **Last Name:** Weasley
    - **Email Address:** ronweasley@example.com
-
----
-
-You can copy and paste this into your GitHub repository's README.md file. The icons will make the sections stand out and improve readability.
