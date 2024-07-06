@@ -1,3 +1,4 @@
+
 from django.db.models import Max
 from django.test import Client, TestCase
 
